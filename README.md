@@ -1,9 +1,7 @@
-One Hundred Ideas for Computing
+One Hundred Ideas for Computing (revisited)
 ===
 
-This is a vision for how computing could be. I began writing ideas down a number of years ago, this is a selection of ideas old and new. My theme is integration.
-
-Thank you to all the contributors who have been sending in examples and corrections!
+This is a clone/fork from some visions for how computing could be, we at Bravado would love to put our 2 cents on it.
 
 ## 1. [Email Metadata](id:email-metadata)
 
